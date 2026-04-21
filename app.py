@@ -43,28 +43,36 @@ phase = st.sidebar.radio("Select Phase:", [
 if phase == "Phase 1 & 2: Data Exploration (EDA)":
     st.header("📊 Phase 1 & 2: Descriptive Analysis")
     st.subheader("🌍 1. Global Michelin Award Distribution")
-    try:
-        df = pd.read_csv('/content/michelin_feature_engineered_v3.csv')
-        df_map = df.dropna(subset=['latitude', 'longitude'])
-        heat_data = [[row['latitude'], row['longitude'], row['star_level']] for index, row in df_map.iterrows() if row['star_level'] > 0]
-        m = folium.Map(location=[df_map['latitude'].mean(), df_map['longitude'].mean()], zoom_start=2, tiles="CartoDB positron")
-        HeatMap(heat_data, radius=12, blur=15, gradient={0.4: 'blue', 0.65: 'lime', 1.0: 'red'}).add_to(m)
-        components.html(m._repr_html_(), height=450)
-    except Exception as e:
-        st.warning("Map is loading or CSV file is missing in the directory.")
+    
+    file_path = 'michelin_feature_engineered_v3.csv'
+    
+    # 1. 先檢查檔案到底存不存在
+    if not os.path.exists(file_path):
+        st.error(f"🚨 ERROR: 找不到檔案 '{file_path}'！請檢查檔案是否有上傳，且大小寫完全一致。")
+    else:
+        # 2. 如果檔案存在，嘗試畫圖並捕捉真實的錯誤訊息
+        try:
+            df = pd.read_csv(file_path)
+            
+            # 確保經緯度資料格式正確 (避免字串導致 Folium 崩潰)
+            df['latitude'] = pd.to_numeric(df['latitude'], errors='coerce')
+            df['longitude'] = pd.to_numeric(df['longitude'], errors='coerce')
+            df_map = df.dropna(subset=['latitude', 'longitude'])
+            
+            heat_data = [[row['latitude'], row['longitude'], float(row['star_level'])] for index, row in df_map.iterrows() if row['star_level'] > 0]
+            
+            m = folium.Map(location=[df_map['latitude'].mean(), df_map['longitude'].mean()], zoom_start=2, tiles="CartoDB positron")
+            HeatMap(heat_data, radius=12, blur=15, gradient={0.4: 'blue', 0.65: 'lime', 1.0: 'red'}).add_to(m)
+            
+            components.html(m._repr_html_(), height=450)
+            
+        except Exception as e:
+            # 將真正的系統錯誤印在網頁上給我們看
+            st.error(f"🚨 系統錯誤 (System Error): {e}")
 
     st.divider()
+
     st.subheader("📉 2. Bias Matrices: Star Level vs. Recognition")
-    c1, c2 = st.columns(2)
-    with c1:
-        if os.path.exists('star_bias_matrix.png'): st.image('star_bias_matrix.png', caption="Star Bias Matrix")
-    with c2:
-        if os.path.exists('recog_bias_matrix.png'): st.image('recog_bias_matrix.png', caption="Recognition Bias Matrix")
-
-    st.divider()
-    st.subheader("🍲 3. Native vs. Foreign Cuisine Analysis")
-    if os.path.exists('native_comparison.png'): st.image('native_comparison.png', caption="Cuisine Type Impact")
-
 # ==========================================
 # Section 2: Phase 3 (SHAP side-by-side)
 # ==========================================
