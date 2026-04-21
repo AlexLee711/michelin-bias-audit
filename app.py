@@ -73,6 +73,16 @@ if phase == "Phase 1 & 2: Data Exploration (EDA)":
     st.divider()
 
     st.subheader("📉 2. Bias Matrices: Star Level vs. Recognition")
+    c1, c2 = st.columns(2)
+    with c1:
+        if os.path.exists('star_bias_matrix.png'): st.image('star_bias_matrix.png', caption="Star Bias Matrix")
+    with c2:
+        if os.path.exists('recog_bias_matrix.png'): st.image('recog_bias_matrix.png', caption="Recognition Bias Matrix")
+
+    st.divider()
+    st.subheader("🍲 3. Native vs. Foreign Cuisine Analysis")
+    if os.path.exists('native_comparison.png'): st.image('native_comparison.png', caption="Cuisine Type Impact")
+
 # ==========================================
 # Section 2: Phase 3 (SHAP side-by-side)
 # ==========================================
