@@ -1,0 +1,163 @@
+﻿name,address,location,price,cuisine,longitude,latitude,award,greenstar,country,city,is_global_hub,is_native,restaurant_density,star_level,recog_level,is_starred,award_level,tabelog_score
+Simplicite,"2-17-13 Ebisunishi, Shibuya-ku, Tokyo, 150-0021, Japan","Tokyo, Japan",3,French,139.705412,35.649073,1 Star,0,Japan,Tokyo,1,0,285,1,0,1,3,3.9
+Akanezaka Onuma,"3F, 3-12-2 Akasaka, Minato-ku, Tokyo, 107-0052, Japan","Tokyo, Japan",3,Japanese,139.737891,35.674046,1 Star,0,Japan,Tokyo,1,1,415,1,0,1,3,3.93
+Harutaka,"6F, 8-3-1 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,Sushi,139.759203,35.669269,3 Stars,0,Japan,Tokyo,1,0,383,3,0,1,5,4.34
+Kanda,"1F, Toranomon Hills Residential Tower, 1-1-1 Atago, Minato-ku, Tokyo, 105-0002, Japan","Tokyo, Japan",4,Japanese,139.748,35.6658,3 Stars,0,Japan,Tokyo,1,1,401,3,0,1,5,3.94
+Azabu Kadowaki,"2-7-2 Azabujuban, Minato-ku, Tokyo, 106-0045, Japan","Tokyo, Japan",4,Japanese,139.733551,35.655993,3 Stars,0,Japan,Tokyo,1,1,391,3,0,1,5,3.94
+Myojaku,"B1F, 3-2-34 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan","Tokyo, Japan",4,Japanese,139.726652,35.659411,3 Stars,0,Japan,Tokyo,1,1,404,3,0,1,5,4.43
+SEZANNE,"7F, Four Seasons Hotel Tokyo at Marunouchi, 1-11-1 Marunouchi, Chiyoda-ku, Tokyo, 100-6277, Japan","Tokyo, Japan",4,"French, Contemporary",139.767155,35.678083,3 Stars,0,Japan,Tokyo,1,0,340,3,0,1,5,4.43
+L'OSIER,"7-5-5 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,"French, French Contemporary",139.761203,35.669667,3 Stars,0,Japan,Tokyo,1,0,378,3,0,1,5,4.41
+L'Effervescence,"2-26-4 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan","Tokyo, Japan",4,"French, Contemporary",139.719454,35.660299,3 Stars,1,Japan,Tokyo,1,0,388,3,0,1,5,4.48
+RyuGin,"7F, Tokyo Midtown Hibiya, 1-1-2 Yurakucho, Chiyoda-ku, Tokyo, 100-0006, Japan","Tokyo, Japan",4,"Japanese, Fugu / Pufferfish",139.759193,35.673583,3 Stars,0,Japan,Tokyo,1,1,376,3,0,1,5,4.09
+Joel Robuchon,"Yebisu Garden Place, 1-13-1 Mita, Meguro-ku, Tokyo, 153-0062, Japan","Tokyo, Japan",4,"French, Contemporary",139.714528,35.641903,3 Stars,0,Japan,Tokyo,1,0,270,3,0,1,5,4.42
+Quintessence,"1F, Garden City Shinagawa Gotenyama, 6-7-29 Kitashinagawa, Shinagawa-ku, Tokyo, 141-0001, Japan","Tokyo, Japan",4,"French, Contemporary",139.732977,35.624038,3 Stars,0,Japan,Tokyo,1,0,196,3,0,1,5,4.5
+Sazenka,"4-7-5 Minamiazabu, Minato-ku, Tokyo, 106-0047, Japan","Tokyo, Japan",4,Chinese,139.728395,35.649578,3 Stars,0,Japan,Tokyo,1,0,369,3,0,1,5,4.56
+Kagurazaka Ishikawa,"5-37 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825, Japan","Tokyo, Japan",4,Japanese,139.739466,35.701212,3 Stars,0,Japan,Tokyo,1,1,314,3,0,1,5,4.38
+PRISMA,"6-4-6 Minamiaoyama, Minato-ku, Tokyo, 107-0062, Japan","Tokyo, Japan",4,Italian,139.716582,35.661579,2 Stars,0,Japan,Tokyo,1,0,376,2,0,1,4,4.36
+Tempura Kondo,"9F, 5-5-13 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",3,Tempura,139.763104,35.671184,2 Stars,0,Japan,Tokyo,1,0,361,2,0,1,4,4.08
+Tempura Motoyoshi,"3F, 2-8-11 Ebisunishi, Shibuya-ku, Tokyo, 150-0021, Japan","Tokyo, Japan",4,Tempura,139.707611,35.649532,2 Stars,0,Japan,Tokyo,1,0,286,2,0,1,4,4.08
+Seizan,"B1F, 2-17-29 Mita, Minato-ku, Tokyo, 108-0073, Japan","Tokyo, Japan",4,Japanese,139.739938,35.647433,2 Stars,0,Japan,Tokyo,1,1,350,2,0,1,4,4.48
+Kohaku,"3-5-5 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825, Japan","Tokyo, Japan",4,Japanese,139.740832,35.700825,2 Stars,0,Japan,Tokyo,1,1,316,2,0,1,4,4.33
+HOMMAGE,"4-10-5 Asakusa, Taito-ku, Tokyo, 111-0032, Japan","Tokyo, Japan",4,"French, Contemporary",139.79699,35.718485,2 Stars,0,Japan,Tokyo,1,0,72,2,0,1,4,4.21
+MAZ,"3F, Tokyo Garden Terrace Kioicho, 1-3 Kioicho, Chiyoda-ku, Tokyo, 102-0094, Japan","Tokyo, Japan",4,Innovative,139.737003,35.679726,2 Stars,0,Japan,Tokyo,1,0,412,2,0,1,4,4.11
+ASAHINA Gastronome,"1-4 Nihombashikabutocho, Chuo-ku, Tokyo, 103-0026, Japan","Tokyo, Japan",4,French,139.779323,35.68274,2 Stars,0,Japan,Tokyo,1,0,247,2,0,1,4,4.25
+Crony,"1-20-3 Higashiazabu, Minato-ku, Tokyo, 106-0044, Japan","Tokyo, Japan",4,"French, Contemporary",139.743334,35.655769,2 Stars,1,Japan,Tokyo,1,0,382,2,0,1,4,3.77
+Hakuun,"4-11-2 Minamiaoyama, Minato-ku, Tokyo, 107-0062, Japan","Tokyo, Japan",4,Japanese,139.718115,35.666061,2 Stars,0,Japan,Tokyo,1,1,397,2,0,1,4,4.22
+Den,"2-3-18 Jingumae, Shibuya-ku, Tokyo, 150-0001, Japan","Tokyo, Japan",3,Japanese,139.712697,35.67321,2 Stars,1,Japan,Tokyo,1,1,376,2,0,1,4,4.35
+Nishiazabu Sushi Shin,"4-18-20 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan","Tokyo, Japan",4,Sushi,139.718789,35.658327,2 Stars,0,Japan,Tokyo,1,0,362,2,0,1,4,3.73
+Florilege,"2F, Azabudai Hills Garden Plaza D, 5-10-7 Toranomon, Minato-ku, Tokyo, 105-0001, Japan","Tokyo, Japan",3,French,139.743562,35.661598,2 Stars,1,Japan,Tokyo,1,0,412,2,0,1,4,4.18
+Sukiyabashi Jiro Roppongiten,"3F, Roppongi Hills Residence B, 6-12-2 Roppongi, Minato-ku, Tokyo, 106-0032, Japan","Tokyo, Japan",4,Sushi,139.729049,35.658713,2 Stars,0,Japan,Tokyo,1,0,403,2,0,1,4,3.73
+Ginza Fukuju,"5F, 8-8-19 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,Japanese,139.761573,35.668529,2 Stars,0,Japan,Tokyo,1,1,378,2,0,1,4,3.41
+ESqUISSE,"9F, 5-4-6 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,"French, Contemporary",139.763347,35.671688,2 Stars,0,Japan,Tokyo,1,0,363,2,0,1,4,4.28
+Kioicho Fukudaya,"1-13 Kioicho, Chiyoda-ku, Tokyo, 102-0094, Japan","Tokyo, Japan",4,Japanese,139.735892,35.680327,2 Stars,0,Japan,Tokyo,1,1,414,2,0,1,4,3.54
+Ginza Kojyu,"4F, 5-4-8 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,Japanese,139.763089,35.671381,2 Stars,0,Japan,Tokyo,1,1,362,2,0,1,4,3.83
+Ryuzu,"B1F, 4-2-35 Roppongi, Minato-ku, Tokyo, 106-0032, Japan","Tokyo, Japan",3,"French, Contemporary",139.733371,35.664729,2 Stars,0,Japan,Tokyo,1,0,417,2,0,1,4,4.15
+Jingumae Higuchi,"2-19-12 Jingumae, Shibuya-ku, Tokyo, 150-0001, Japan","Tokyo, Japan",4,Japanese,139.710124,35.673471,2 Stars,0,Japan,Tokyo,1,1,360,2,0,1,4,4.19
+Ensui,"1-5-12 Nakameguro, Meguro-ku, Tokyo, 153-0061, Japan","Tokyo, Japan",4,Japanese,139.702444,35.644301,2 Stars,0,Japan,Tokyo,1,1,268,2,0,1,4,4.06
+NARISAWA,"2-6-15 Minamiaoyama, Minato-ku, Tokyo, 107-0062, Japan","Tokyo, Japan",4,Innovative,139.722147,35.671585,2 Stars,1,Japan,Tokyo,1,0,413,2,0,1,4,4.22
+Sushi Kanesaka,"B1F, 8-10-3 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,Sushi,139.762691,35.667938,2 Stars,0,Japan,Tokyo,1,0,370,2,0,1,4,3.92
+Ginza Shinohara,"B1F, 2-8-17 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,Japanese,139.767805,35.673039,2 Stars,0,Japan,Tokyo,1,1,346,2,0,1,4,4.58
+Akasaka Kikunoi,"6-13-8 Akasaka, Minato-ku, Tokyo, 107-0052, Japan","Tokyo, Japan",3,Japanese,139.734126,35.669635,2 Stars,0,Japan,Tokyo,1,1,427,2,0,1,4,3.89
+Kutan,"2-5-5 Shintomi, Chuo-ku, Tokyo, 104-0041, Japan","Tokyo, Japan",4,Japanese,139.774073,35.671572,2 Stars,0,Japan,Tokyo,1,1,301,2,0,1,4,4.1
+mærge,"3-8-14 Minamiaoyama, Minato-ku, Tokyo, 107-0062, Japan","Tokyo, Japan",4,French,139.715593,35.666905,1 Star,0,Japan,Tokyo,1,0,387,1,0,1,3,4.1
+MANOIR,"1-10-6 Hiro, Shibuya-ku, Tokyo, 150-0012, Japan","Tokyo, Japan",3,French,139.717112,35.648521,1 Star,0,Japan,Tokyo,1,0,325,1,0,1,3,3.88
+est,"39F, Four Seasons Hotel Tokyo at Otemachi, 1-2-1 Otemachi, Chiyoda-ku, Tokyo, 100-0004, Japan","Tokyo, Japan",4,"French, Contemporary",139.763396,35.688162,1 Star,0,Japan,Tokyo,1,0,331,1,0,1,3,3.75
+MAKIYAKI GINZA ONODERA,"9F, 5-14-14 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,French,139.766796,35.668557,1 Star,0,Japan,Tokyo,1,0,352,1,0,1,3,3.74
+Seiju,"B1F, 3-16-9 Tsukiji, Chuo-ku, Tokyo, 104-0045, Japan","Tokyo, Japan",4,Tempura,139.771164,35.666294,1 Star,0,Japan,Tokyo,1,0,320,1,0,1,3,3.7
+Sassa,"5-13-6 Hiro, Shibuya-ku, Tokyo, 150-0012, Japan","Tokyo, Japan",4,Japanese,139.72114,35.64979,1 Star,0,Japan,Tokyo,1,1,349,1,0,1,3,4.14
+Yama,"6-16-41 Shirokane, Minato-ku, Tokyo, 108-0072, Japan","Tokyo, Japan",4,Creative,139.722916,35.643773,1 Star,0,Japan,Tokyo,1,0,315,1,0,1,3,4.18
+Higashiyama Muku,"1-15-5 Higashiyama, Meguro-ku, Tokyo, 153-0043, Japan","Tokyo, Japan",3,Japanese,139.693148,35.64732,1 Star,0,Japan,Tokyo,1,1,256,1,0,1,3,3.9
+Waketokuyama,"5-1-5 Minamiazabu, Minato-ku, Tokyo, 106-0047, Japan","Tokyo, Japan",3,Japanese,139.723292,35.655748,1 Star,0,Japan,Tokyo,1,1,375,1,0,1,3,3.71
+L'ARGENT,"2F, Tokyo Club Bldg, 3-2-6 Kasumigaseki, Chiyoda-ku, Tokyo, 100-0013, Japan","Tokyo, Japan",3,French,139.746524,35.670573,1 Star,0,Japan,Tokyo,1,0,409,1,0,1,3,4.03
+LA TABLE de Joel Robuchon,"Yebisu Garden Place, 1-13-1 Mita, Meguro-ku, Tokyo, 153-0062, Japan","Tokyo, Japan",3,"French, Contemporary",139.714544,35.641907,1 Star,0,Japan,Tokyo,1,0,270,1,0,1,3,3.79
+La Paix,"B1F, 1-9-4 Nihombashimuromachi, Chuo-ku, Tokyo, 103-0022, Japan","Tokyo, Japan",3,French,139.775586,35.685136,1 Star,1,Japan,Tokyo,1,0,271,1,0,1,3,3.99
+FARO,"10F, 8-8-3 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",3,Italian,139.761906,35.66852,1 Star,1,Japan,Tokyo,1,0,375,1,0,1,3,3.75
+Nabeno-Ism,"2-1-17 Komagata, Taito-ku, Tokyo, 111-0043, Japan","Tokyo, Japan",4,French,139.795384,35.706847,1 Star,0,Japan,Tokyo,1,0,137,1,0,1,3,4.19
+Tempura Miyashiro,"2-18-11 Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan","Tokyo, Japan",4,Tempura,139.697277,35.641547,1 Star,0,Japan,Tokyo,1,0,254,1,0,1,3,3.77
+Tempura Maehira,"4F, 2-8-16 Azabujuban, Minato-ku, Tokyo, 106-0045, Japan","Tokyo, Japan",3,Tempura,139.733863,35.655644,1 Star,0,Japan,Tokyo,1,0,387,1,0,1,3,3.74
+Sushi Oya,"3F, 3-6 Fukuromachi, Shinjuku-ku, Tokyo, 162-0828, Japan","Tokyo, Japan",4,Sushi,139.738699,35.701486,1 Star,0,Japan,Tokyo,1,0,311,1,0,1,3,3.76
+Sushi Tanaka,"2-7-23 Minamiazabu, Minato-ku, Tokyo, 106-0047, Japan","Tokyo, Japan",3,Sushi,139.736627,35.647205,1 Star,0,Japan,Tokyo,1,0,355,1,0,1,3,4.05
+KIBUN,"2F, 4-11-28 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan","Tokyo, Japan",3,Contemporary,139.722558,35.659416,1 Star,0,Japan,Tokyo,1,0,396,1,0,1,3,3.27
+Oku,"3-42-11 Asakusa, Taito-ku, Tokyo, 111-0032, Japan","Tokyo, Japan",3,Sushi,139.79312,35.718054,1 Star,0,Japan,Tokyo,1,0,74,1,0,1,3,3.98
+Shigeyuki,"2-17-3 Nishihara, Shibuya-ku, Tokyo, 151-0066, Japan","Tokyo, Japan",3,Japanese,139.67875,35.673129,1 Star,0,Japan,Tokyo,1,1,186,1,0,1,3,3.74
+Tempura Yaguchi,"2-9-7 Nihombashiningyocho, Chuo-ku, Tokyo, 103-0013, Japan","Tokyo, Japan",4,Tempura,139.784022,35.686176,1 Star,0,Japan,Tokyo,1,0,226,1,0,1,3,3.49
+Sharikimon Onozawa,"6-39 Arakicho, Shinjuku-ku, Tokyo, 160-0007, Japan","Tokyo, Japan",4,Japanese,139.722586,35.689236,1 Star,0,Japan,Tokyo,1,1,379,1,0,1,3,4.08
+BEIGE Alain Ducasse,"10F, 3-5-3 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",3,French,139.766511,35.67308,1 Star,0,Japan,Tokyo,1,0,352,1,0,1,3,3.95
+Towa,"2F, 4-11-25 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan","Tokyo, Japan",4,Japanese,139.722303,35.659233,1 Star,0,Japan,Tokyo,1,1,393,1,0,1,3,3.97
+Nihombashi Sonoji,"2-22-11 Nihombashiningyocho, Chuo-ku, Tokyo, 103-0013, Japan","Tokyo, Japan",4,Tempura,139.7845372,35.6862411,1 Star,0,Japan,Tokyo,1,0,222,1,0,1,3,4.44
+Tour D'argent Tokyo,"Lobby floor, Hotel New Otani Tokyo (The Main), 4-1 Kioicho, Chiyoda-ku, Tokyo, 102-8578, Japan","Tokyo, Japan",4,French,139.734172,35.680691,1 Star,0,Japan,Tokyo,1,0,418,1,0,1,3,3.88
+Sushi Keita,"6-6-4 Tsukiji, Chuo-ku, Tokyo, 104-0045, Japan","Tokyo, Japan",3,Sushi,139.773639,35.665416,1 Star,0,Japan,Tokyo,1,0,287,1,0,1,3,3.89
+Jushu,"2-16-1 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan","Tokyo, Japan",3,Japanese,139.720305,35.661832,1 Star,0,Japan,Tokyo,1,1,398,1,0,1,3,3.64
+Kyobashi Tempura Fukamachi,"2-5-2 Kyobashi, Chuo-ku, Tokyo, 104-0031, Japan","Tokyo, Japan",3,Tempura,139.77049,35.67649,1 Star,0,Japan,Tokyo,1,0,325,1,0,1,3,4.1
+ESTERRE by Alain Ducasse,"6F, Palace Hotel Tokyo, 1-1-1 Marunouchi, Chiyoda-ku, Tokyo, 100-0005, Japan","Tokyo, Japan",3,French,139.76123,35.684502,1 Star,0,Japan,Tokyo,1,0,351,1,0,1,3,3.93
+au deco,"2-23-3 Ebisu, Shibuya-ku, Tokyo, 150-0013, Japan","Tokyo, Japan",3,French,139.720263,35.647632,1 Star,0,Japan,Tokyo,1,0,333,1,0,1,3,3.74
+Piao-Xiang,"5-19-1 Hiro, Shibuya-ku, Tokyo, 150-0012, Japan","Tokyo, Japan",3,Chinese,139.719531,35.649081,1 Star,0,Japan,Tokyo,1,0,335,1,0,1,3,3.84
+Hiroo Ishizaka,"2F, 5-19-1 Hiro, Shibuya-ku, Tokyo, 150-0012, Japan","Tokyo, Japan",3,Sushi,139.719531,35.649081,1 Star,0,Japan,Tokyo,1,0,335,1,0,1,3,3.26
+Shokuzen Abe,"4F, 5-6-10 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",3,Japanese,139.763671,35.670726,1 Star,0,Japan,Tokyo,1,1,359,1,0,1,3,3.8
+Miyasaka,"5-4-30 Minamiaoyama, Minato-ku, Tokyo, 107-0062, Japan","Tokyo, Japan",4,Japanese,139.714216,35.662464,1 Star,0,Japan,Tokyo,1,1,365,1,0,1,3,4.23
+Sushi Hashimoto,"1-8-2 Shintomi, Chuo-ku, Tokyo, 104-0041, Japan","Tokyo, Japan",4,Sushi,139.774495,35.673,1 Star,0,Japan,Tokyo,1,0,298,1,0,1,3,4.44
+Kabi,"4-10-8 Meguro, Meguro-ku, Tokyo, 153-0063, Japan","Tokyo, Japan",3,Innovative,139.703861,35.631436,1 Star,0,Japan,Tokyo,1,0,238,1,0,1,3,3.53
+Koshikiryori Koki,"2-13-6 Nishishimbashi, Minato-ku, Tokyo, 105-0003, Japan","Tokyo, Japan",3,Chinese,139.751646,35.666703,1 Star,0,Japan,Tokyo,1,0,402,1,0,1,3,4.19
+TROIS VISAGES,"7-16-21 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",3,"French, Contemporary",139.765611,35.667149,1 Star,1,Japan,Tokyo,1,0,352,1,0,1,3,3.72
+nol,"1F, DDD HOTEL, 2-2-1 Nihombashibakurocho, Chuo-ku, Tokyo, 103-0002, Japan","Tokyo, Japan",3,Contemporary,139.78362,35.695272,1 Star,1,Japan,Tokyo,1,0,211,1,0,1,3,3.24
+Sushi Ichijo,"3-1-3 Higashinihombashi, Chuo-ku, Tokyo, 103-0004, Japan","Tokyo, Japan",4,Sushi,139.782711,35.690334,1 Star,0,Japan,Tokyo,1,0,220,1,0,1,3,3.75
+l'elan,"4F, GYRE, 5-10-1 Jingumae, Shibuya-ku, Tokyo, 150-0001, Japan","Tokyo, Japan",3,French,139.70695,35.667538,1 Star,0,Japan,Tokyo,1,0,330,1,0,1,3,3.88
+Edomae Sushi Hanabusa,"9-1-7 Akasaka, Minato-ku, Tokyo, 107-0052, Japan","Tokyo, Japan",4,Sushi,139.732693,35.668434,1 Star,0,Japan,Tokyo,1,0,420,1,0,1,3,3.21
+Guchokuni,"4F, 4-3 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825, Japan","Tokyo, Japan",4,Japanese,139.740034,35.701579,1 Star,0,Japan,Tokyo,1,1,308,1,0,1,3,3.88
+Ten Yokota,"2F, 3-10-5 Motoazabu, Minato-ku, Tokyo, 106-0046, Japan","Tokyo, Japan",3,Tempura,139.732286,35.65684,1 Star,0,Japan,Tokyo,1,0,397,1,0,1,3,3.97
+La Gloire,"2-17-7 Akasaka, Minato-ku, Tokyo, 107-0052, Japan","Tokyo, Japan",3,French,139.739,35.671554,1 Star,0,Japan,Tokyo,1,0,418,1,0,1,3,3.56
+Kappo Muroi,"2-16-4 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan","Tokyo, Japan",4,Japanese,139.720819,35.661741,1 Star,0,Japan,Tokyo,1,1,398,1,0,1,3,4.19
+Sushi Matsuura,"5-7-8 Shirokane, Minato-ku, Tokyo, 108-0072, Japan","Tokyo, Japan",3,Sushi,139.727818,35.644639,1 Star,0,Japan,Tokyo,1,0,341,1,0,1,3,4.31
+Sushi Kojima,"5F, 7-3-8 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,Sushi,139.760576,35.670147,1 Star,0,Japan,Tokyo,1,0,378,1,0,1,3,3.22
+L'ATELIER de Joel Robuchon,"2F, Roppongi Hills Hillside, 6-10-1 Roppongi, Minato-ku, Tokyo, 106-0032, Japan","Tokyo, Japan",3,"French, Contemporary",139.729046,35.6604,1 Star,0,Japan,Tokyo,1,0,409,1,0,1,3,3.82
+Tempura Ginya,"B1F, 5-17-9 Shirokanedai, Minato-ku, Tokyo, 108-0071, Japan","Tokyo, Japan",4,Tempura,139.723162,35.637444,1 Star,0,Japan,Tokyo,1,0,269,1,0,1,3,3.78
+Nogizaka Shin,"8-11-19 Akasaka, Minato-ku, Tokyo, 107-0052, Japan","Tokyo, Japan",4,Japanese,139.72905,35.66844,1 Star,0,Japan,Tokyo,1,1,419,1,0,1,3,3.97
+Daigo,"2F, Forest Tower, 2-3-1 Atago, Minato-ku, Tokyo, 105-0002, Japan","Tokyo, Japan",3,Shojin,139.749184,35.66344,1 Star,1,Japan,Tokyo,1,0,399,1,0,1,3,3.69
+KHAO,"2-12-7 Kandajimbocho, Chiyoda-ku, Tokyo, 101-0051, Japan","Tokyo, Japan",3,Thai,139.756968,35.696505,1 Star,0,Japan,Tokyo,1,0,312,1,0,1,3,3.92
+EWIG,"2F, 4-3-23 Minamiaoyama, Minato-ku, Tokyo, 107-0062, Japan","Tokyo, Japan",3,Austrian,139.720171,35.666105,1 Star,0,Japan,Tokyo,1,0,405,1,0,1,3,3.65
+Yotsuya Minemura,"2F, 3-21 Arakicho, Shinjuku-ku, Tokyo, 160-0007, Japan","Tokyo, Japan",4,Japanese,139.722947,35.688613,1 Star,0,Japan,Tokyo,1,1,385,1,0,1,3,3.98
+Alchimiste,"5-17-10 Shirokanedai, Minato-ku, Tokyo, 108-0071, Japan","Tokyo, Japan",3,"French, Contemporary",139.723137,35.637544,1 Star,0,Japan,Tokyo,1,0,270,1,0,1,3,3.89
+Les Saisons,"MF, Main Bldg, Imperial Hotel Tokyo, 1-1-1 Uchisaiwaicho, Chiyoda-ku, Tokyo, 100-8558, Japan","Tokyo, Japan",4,French,139.758435,35.672455,1 Star,0,Japan,Tokyo,1,0,378,1,0,1,3,4.3
+Seisoka,"4-2-34 Minamiazabu, Minato-ku, Tokyo, 106-0047, Japan","Tokyo, Japan",4,Japanese,139.724008,35.64751,1 Star,0,Japan,Tokyo,1,1,352,1,0,1,3,3.59
+Akasaka Shimabukuro,"3F, 3-21-8 Akasaka, Minato-ku, Tokyo, 107-0052, Japan","Tokyo, Japan",4,Japanese,139.736196,35.676443,1 Star,0,Japan,Tokyo,1,1,420,1,0,1,3,4.16
+hortensia,"2F, 1-5-12 Shintomi, Chuo-ku, Tokyo, 104-0041, Japan","Tokyo, Japan",3,"French, French Contemporary",139.772791,35.672436,1 Star,0,Japan,Tokyo,1,0,311,1,0,1,3,3.69
+Saucer,"B1F, 2-7-10 Ebisunishi, Shibuya-ku, Tokyo, 150-0021, Japan","Tokyo, Japan",3,French,139.707238,35.650533,1 Star,0,Japan,Tokyo,1,0,287,1,0,1,3,3.78
+apotheose,"49F, Toranomon Hills Station Tower, 2-6-2 Toranomon, Minato-ku, Tokyo, 105-5549, Japan","Tokyo, Japan",4,French,139.746971,35.667585,1 Star,0,Japan,Tokyo,1,0,405,1,0,1,3,4.02
+Sushi Ryujiro,"2-11-11 Minamiaoyama, Minato-ku, Tokyo, 107-0062, Japan","Tokyo, Japan",4,Sushi,139.720882,35.671287,1 Star,0,Japan,Tokyo,1,0,409,1,0,1,3,4.39
+Sorahana,"5-3-3 Toranomon, Minato-ku, Tokyo, 105-0001, Japan","Tokyo, Japan",3,Japanese,139.744266,35.662679,1 Star,0,Japan,Tokyo,1,1,412,1,0,1,3,3.58
+Sushi Masashi,"7F, 2-9-9 Kitaaoyama, Minato-ku, Tokyo, 107-0061, Japan","Tokyo, Japan",4,Sushi,139.716725,35.671398,1 Star,0,Japan,Tokyo,1,0,398,1,0,1,3,3.7
+Ren Mishina,"B1F, 7-3-13 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,Japanese,139.760066,35.670115,1 Star,0,Japan,Tokyo,1,1,380,1,0,1,3,4.1
+FUSHIKINO,"2F, 4-3-11 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825, Japan","Tokyo, Japan",3,Japanese,139.740033,35.701993,1 Star,0,Japan,Tokyo,1,1,302,1,0,1,3,3.68
+Shimbashi Sasada,"1-23-7 Nishishimbashi, Minato-ku, Tokyo, 105-0003, Japan","Tokyo, Japan",3,Japanese,139.751571,35.668147,1 Star,0,Japan,Tokyo,1,1,402,1,0,1,3,3.87
+itsuka,"2F, 2-14-15 Minamiaoyama, Minato-ku, Tokyo, 107-0062, Japan","Tokyo, Japan",3,Chinese,139.720168,35.670272,1 Star,0,Japan,Tokyo,1,0,411,1,0,1,3,3.9
+Azabujuban Fukuda,"3-7-5 Azabujuban, Minato-ku, Tokyo, 106-0045, Japan","Tokyo, Japan",4,Japanese,139.735082,35.653614,1 Star,0,Japan,Tokyo,1,1,375,1,0,1,3,3.76
+Series,"3-4-11 Azabudai, Minato-ku, Tokyo, 106-0041, Japan","Tokyo, Japan",3,Chinese,139.738995,35.660599,1 Star,0,Japan,Tokyo,1,0,412,1,0,1,3,3.91
+Sumibikappo SHIROSAKA,"6-3-9 Akasaka, Minato-ku, Tokyo, 107-0052, Japan","Tokyo, Japan",3,Japanese,139.735674,35.670722,1 Star,0,Japan,Tokyo,1,1,424,1,0,1,3,3.57
+Edomae Shinsaku,"6F, 2-10-11 Nihombashiningyocho, Chuo-ku, Tokyo, 103-0013, Japan","Tokyo, Japan",4,Tempura,139.783986,35.685565,1 Star,0,Japan,Tokyo,1,0,227,1,0,1,3,4.08
+Heritage by Kei Kobayashi,"45F, The Ritz-Carlton, Tokyo, 9-7-1 Akasaka, Minato-ku, Tokyo, 107-6245, Japan","Tokyo, Japan",3,"French, French Contemporary",139.731182,35.665937,1 Star,0,Japan,Tokyo,1,0,418,1,0,1,3,4.06
+Oniku Karyu,"7F, 1-14-6 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,Beef,139.769792,35.672997,1 Star,0,Japan,Tokyo,1,0,328,1,0,1,3,4.17
+Ippei Hanten,"3-12-41 Motoazabu, Minato-ku, Tokyo, 106-0046, Japan","Tokyo, Japan",4,Chinese,139.731784,35.656391,1 Star,0,Japan,Tokyo,1,0,386,1,0,1,3,3.97
+NeMo,"B1F, 6-15-4 Minamiaoyama, Minato-ku, Tokyo, 107-0062, Japan","Tokyo, Japan",3,French,139.714261,35.659492,1 Star,0,Japan,Tokyo,1,0,338,1,0,1,3,3.76
+Sincere,"B1F, 3-7-13 Sendagaya, Shibuya-ku, Tokyo, 151-0051, Japan","Tokyo, Japan",3,French,139.704359,35.676969,1 Star,1,Japan,Tokyo,1,0,309,1,0,1,3,4.16
+CRAFTALE,"2F, 1-16-11 Aobadai, Meguro-ku, Tokyo, 153-0042, Japan","Tokyo, Japan",3,French,139.696486,35.647362,1 Star,0,Japan,Tokyo,1,0,265,1,0,1,3,3.72
+abysse,"1-30-12 Ebisunishi, Shibuya-ku, Tokyo, 150-0021, Japan","Tokyo, Japan",4,"French, Contemporary",139.705688,35.648478,1 Star,0,Japan,Tokyo,1,0,283,1,0,1,3,3.87
+Edition Koji Shimomura,"1F, Roppongi T-Cube, 3-1-1 Roppongi, Minato-ku, Tokyo, 106-0032, Japan","Tokyo, Japan",4,French,139.738152,35.66558,1 Star,0,Japan,Tokyo,1,0,421,1,0,1,3,4.09
+PRIMO PASSO,"B1F, 1-5-11 Tsukiji, Chuo-ku, Tokyo, 104-0045, Japan","Tokyo, Japan",3,Italian,139.771646,35.670168,1 Star,0,Japan,Tokyo,1,0,324,1,0,1,3,4.09
+Yakitori Takahashi,"2F, 2-10-11 Nihombashi, Chuo-ku, Tokyo, 103-0027, Japan","Tokyo, Japan",3,Yakitori,139.774542,35.680982,1 Star,0,Japan,Tokyo,1,0,295,1,0,1,3,3.7
+MONOLITH,"2-6-1 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan","Tokyo, Japan",3,French,139.708365,35.660049,1 Star,0,Japan,Tokyo,1,0,310,1,0,1,3,4.11
+TOKi,"2F, 1-8-4 Shimbashi, Minato-ku, Tokyo, 105-0004, Japan","Tokyo, Japan",3,"Contemporary, Spanish Contemporary",139.7607,35.667188,1 Star,0,Japan,Tokyo,1,0,377,1,0,1,3,3.76
+Torakuro,"B1F, Imperial Hotel Tokyo Main, 1-1-1 Uchisaiwaicho, Chiyoda-ku, Tokyo, 100-8558, Japan","Tokyo, Japan",4,Japanese,139.75837,35.6723,1 Star,0,Japan,Tokyo,1,1,380,1,0,1,3,3.93
+Takumi Tatsuhiro,"1-11-7 Shinjuku, Shinjuku-ku, Tokyo, 160-0022, Japan","Tokyo, Japan",4,Sushi,139.713111,35.688768,1 Star,0,Japan,Tokyo,1,0,327,1,0,1,3,3.66
+Hyakuyaku by Tokuyamazushi,"9F, 4-4-2 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,Japanese,139.765314,35.672325,1 Star,0,Japan,Tokyo,1,1,359,1,0,1,3,3.26
+Sanosushi,"2-18-9 Shiba, Minato-ku, Tokyo, 105-0014, Japan","Tokyo, Japan",3,Sushi,139.75071,35.65158,1 Star,0,Japan,Tokyo,1,0,368,1,0,1,3,4.02
+hakunei,"4-9-11 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan","Tokyo, Japan",4,Contemporary,139.722224,35.657009,1 Star,0,Japan,Tokyo,1,0,375,1,0,1,3,4.09
+le sputnik,"7-9-9 Roppongi, Minato-ku, Tokyo, 106-0032, Japan","Tokyo, Japan",3,French,139.729876,35.664392,1 Star,0,Japan,Tokyo,1,0,415,1,0,1,3,3.8
+BOTTEGA,"B1F, 5-17-8 Hiro, Shibuya-ku, Tokyo, 150-0012, Japan","Tokyo, Japan",3,Italian,139.720446,35.649428,1 Star,0,Japan,Tokyo,1,0,343,1,0,1,3,4.01
+Nodaiwa Azabu Iikura Honten,"1-5-4 Higashiazabu, Minato-ku, Tokyo, 106-0044, Japan","Tokyo, Japan",2,Unagi / Freshwater Eel,139.743352,35.6581,1 Star,0,Japan,Tokyo,1,0,402,1,0,1,3,3.67
+Nishiazabu Taku,"2-11-5 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan","Tokyo, Japan",4,Sushi,139.722356,35.661308,1 Star,0,Japan,Tokyo,1,0,402,1,0,1,3,3.56
+Tenoshima,"2F, 1-3-21 Minamiaoyama, Minato-ku, Tokyo, 107-0062, Japan","Tokyo, Japan",3,Japanese,139.725138,35.671024,1 Star,0,Japan,Tokyo,1,1,417,1,0,1,3,3.09
+TEN-MASA,"B1F, 3-16-13 Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan","Tokyo, Japan",3,"Japanese, Tempura",139.695539,35.645878,1 Star,0,Japan,Tokyo,1,1,256,1,0,1,3,3.65
+Sushi Yuki,"5-17-4 Hiro, Shibuya-ku, Tokyo, 150-0012, Japan","Tokyo, Japan",4,Sushi,139.720394,35.649819,1 Star,0,Japan,Tokyo,1,0,346,1,0,1,3,4.29
+LATURE,"B1F, 2-2-2 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan","Tokyo, Japan",3,French,139.708599,35.660762,1 Star,1,Japan,Tokyo,1,0,313,1,0,1,3,4.24
+JO,"B1F, 2-24-14 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan","Tokyo, Japan",4,Beef,139.722546,35.660082,1 Star,0,Japan,Tokyo,1,0,399,1,0,1,3,4.23
+Dominique Bouchet Tokyo,"2F, 1-5-6 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",3,French,139.767351,35.67479,1 Star,0,Japan,Tokyo,1,0,344,1,0,1,3,4.03
+Tanimoto,"3F, 3-1 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825, Japan","Tokyo, Japan",4,Japanese,139.741046,35.702223,1 Star,0,Japan,Tokyo,1,1,297,1,0,1,3,4.06
+ShinoiS,"2F, 4-2-7 Shirokanedai, Minato-ku, Tokyo, 108-0071, Japan","Tokyo, Japan",4,Chinese,139.728182,35.639301,1 Star,0,Japan,Tokyo,1,0,303,1,0,1,3,4.16
+Sushidokoro Kiraku,"1-12-12 Kyodo, Setagaya-ku, Tokyo, 156-0052, Japan","Tokyo, Japan",3,Sushi,139.637221,35.650521,1 Star,0,Japan,Tokyo,1,0,30,1,0,1,3,3.65
+L'AFFINAGE,"2F, 5-9-16 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",3,French,139.764948,35.670183,1 Star,0,Japan,Tokyo,1,0,356,1,0,1,3,4.12
+CYCLE by Mauro Colagreco,"1F, Otemachi One, 1-2-1 Otemachi, Chiyoda-ku, Tokyo, 100-0004, Japan","Tokyo, Japan",4,"French, Contemporary",139.76205,35.68734,1 Star,0,Japan,Tokyo,1,0,342,1,0,1,3,3.75
+Metis Roppongi,"5-18-22 Roppongi, Minato-ku, Tokyo, 106-0032, Japan","Tokyo, Japan",3,French,139.736965,35.661115,1 Star,0,Japan,Tokyo,1,0,409,1,0,1,3,4.06
+ZURRIOLA,"4F, Kojun Bldg, 6-8-7 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,"Spanish, Contemporary",139.762822,35.670064,1 Star,0,Japan,Tokyo,1,0,363,1,0,1,3,4.21
+Jizozushi,"2F, 3-18-5 Shirokanedai, Minato-ku, Tokyo, 108-0071, Japan","Tokyo, Japan",4,Sushi,139.720956,35.635353,1 Star,0,Japan,Tokyo,1,0,251,1,0,1,3,3.55
+L'ETERRE,"2F, 3-6-53 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825, Japan","Tokyo, Japan",4,"French, Contemporary",139.739624,35.700406,1 Star,0,Japan,Tokyo,1,0,331,1,0,1,3,4.19
+Ginza Kitagawa,"3F, 2-10-11 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,Japanese,139.768331,35.672032,1 Star,0,Japan,Tokyo,1,1,342,1,0,1,3,4.34
+PRUNIER,"2F, Tokyo Kaikan, 3-2-1 Marunouchi, Chiyoda-ku, Tokyo, 100-0005, Japan","Tokyo, Japan",3,French,139.761455,35.677638,1 Star,0,Japan,Tokyo,1,0,361,1,0,1,3,3.71
+amarantos,"9F, 5-6-7 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,"French, Contemporary",139.763905,35.67096,1 Star,0,Japan,Tokyo,1,0,359,1,0,1,3,3.68
+Yakumo Uezu,"1-3-9 Yakumo, Meguro-ku, Tokyo, 152-0023, Japan","Tokyo, Japan",3,Japanese,139.67426,35.618768,1 Star,0,Japan,Tokyo,1,1,72,1,0,1,3,3.49
+Ginza Kousui,"8F, 6-12-14 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",4,Japanese,139.764532,35.669181,1 Star,0,Japan,Tokyo,1,1,354,1,0,1,3,3.09
+Oryori Tsuji,"B1F, 3-3-9 Higashiazabu, Minato-ku, Tokyo, 106-0044, Japan","Tokyo, Japan",4,Japanese,139.738844,35.657034,1 Star,0,Japan,Tokyo,1,1,399,1,0,1,3,3.77
+Sushi Miura,"6-19-46 Akasaka, Minato-ku, Tokyo, 107-0052, Japan","Tokyo, Japan",4,Sushi,139.733563,35.667722,1 Star,0,Japan,Tokyo,1,0,422,1,0,1,3,3.7
+Mutsukari,"6F, 5-5-19 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",3,Japanese,139.763718,35.671792,1 Star,0,Japan,Tokyo,1,1,362,1,0,1,3,3.75
+Il Ristorante - Niko Romito,"40F, Bvlgari Hotel Tokyo, 2-2-1 Yaesu, Chuo-ku, Tokyo, 104-0028, Japan","Tokyo, Japan",3,Italian,139.769211,35.67962,1 Star,0,Japan,Tokyo,1,0,329,1,0,1,3,3.69
+Ubuka,"2-14 Arakicho, Shinjuku-ku, Tokyo, 160-0007, Japan","Tokyo, Japan",4,Crab Specialities,139.722412,35.688643,1 Star,0,Japan,Tokyo,1,0,382,1,0,1,3,3.76
+Gucci Osteria da Massimo Bottura Tokyo,"4F, 6-6-12 Ginza, Chuo-ku, Tokyo, 104-0061, Japan","Tokyo, Japan",3,"Italian, Contemporary",139.762079,35.670459,1 Star,0,Japan,Tokyo,1,0,370,1,0,1,3,3.73
